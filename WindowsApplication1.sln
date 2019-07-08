@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsApplication1\WindowsFormsApplication1.csproj", "{FC8EDE11-03FC-4226-9920-35F800BA88AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleTrackBarControl", "DoubleTrackBarControl\DoubleTrackBarControl.csproj", "{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,16 @@ Global
 		{FC8EDE11-03FC-4226-9920-35F800BA88AF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{FC8EDE11-03FC-4226-9920-35F800BA88AF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{FC8EDE11-03FC-4226-9920-35F800BA88AF}.Release|x86.ActiveCfg = Release|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
