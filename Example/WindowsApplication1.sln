@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsApplication1\WindowsFormsApplication1.csproj", "{FC8EDE11-03FC-4226-9920-35F800BA88AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleTrackBarControl", "DoubleTrackBarControl\DoubleTrackBarControl.csproj", "{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleTrackBarControl", "..\DoubleTrackBarControl\DoubleTrackBarControl.csproj", "{EDBA34F1-04AF-46A3-8D10-7E1853340E6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

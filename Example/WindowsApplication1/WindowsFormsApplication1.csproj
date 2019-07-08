@@ -79,7 +79,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DoubleTrackBarControl\DoubleTrackBarControl.csproj">
+    <ProjectReference Include="..\..\DoubleTrackBarControl\DoubleTrackBarControl.csproj">
       <Project>{edba34f1-04af-46a3-8d10-7e1853340e6e}</Project>
       <Name>DoubleTrackBarControl</Name>
     </ProjectReference>
